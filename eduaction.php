@@ -27,14 +27,9 @@
             Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who became the president-elect of the United States after winning the 2024 presidential election. He previously served as the 45th president of the United States from 2017 to 2021
             </p>
 
-            <div class="social_icon">
-                <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="#"><i class="fa-brands fa-github"></i></a>
-                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                <a href="#"><i class="fa-brands fa-telegram"></i></a>
-            </div>
-
-            <a href="#" class="btn">Call me</a>
+            <?php
+                include("DATAS.html");
+            ?>
         </div>
     </section>
 </body>

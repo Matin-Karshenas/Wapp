@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-     include("index3.html");
+     include("index4.html");
     ?>
 
     <section class="Home">
@@ -17,19 +17,17 @@
 
         <div class="home_content">
             <h1>
-               My <span>Experience</span>
+               My <span>Contact info</span>
             </h1>
 
             <h3 class="typing-text">
-                I have 200 year experience
+                +1 (512) 213 1241
             </h3>
-            <p>
-            Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who became the president-elect of the United States after winning the 2024 presidential election. He previously served as the 45th president of the United States from 2017 to 2021
-            </p>
-
+            
             <?php
                 include("DATAS.html");
             ?>
+            
         </div>
     </section>
 </body>
